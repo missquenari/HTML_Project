@@ -1,3 +1,3 @@
 # HTML-porject
 
-Click to visit website: https://github.com/missquenari/HTML-porject.git
+Click to visit website: https://missquenari.github.io/HTML_Project/
